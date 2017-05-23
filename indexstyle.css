@@ -1,0 +1,11 @@
+.horizontal
+{
+  background-color:steelblue;
+  animation-name: menubarLoad;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  text-align:center;
+margin:10px auto;
+padding-top:10px;
+padding-bottom:10px;
+}
