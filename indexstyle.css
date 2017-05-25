@@ -29,9 +29,8 @@ body{
     width:1%;
     /*height:5%;*/
   }
-  to
-  {
-width:95%%;
+  to{
+width:95%;
 /*height:5%;*/
   }
 }
@@ -40,8 +39,8 @@ width:95%%;
 @keyframes menuLinkColorChange {
   from{
   }
-  to
-  {
+  to{
+
 background-color:#7ab1e6;
   }
 }
@@ -60,4 +59,3 @@ h1
   animation-duration:1s;
   animation-fill-mode:forwards;
 }
-\
